@@ -30,7 +30,7 @@ Goal: Identify **root causes** and recommend **business actions**.
 ---
 
 ## Deliverables
-- [Presentation (PPTX)](Presentation1.pptx) – Executive slides  
+- [Presentation (PPTX)](/Users/piyushgupta/Downloads/Portfolios/Walmart/Presentation1.pptx) – Executive slides  
 - Python Notebook – Root cause analysis & charts  
 
 ---

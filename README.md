@@ -69,15 +69,12 @@ By **smoothing markdowns, diversifying category focus, and tailoring by store fo
 ---
 
 ## Deliverables
-- 📊 [Executive Presentation (PPTX)](Presentation1.pptx)  
-- 📓 Jupyter Notebook (Python analysis & charts)  
-- 📈 Power BI Dashboard (interactive monitoring)  
+- 📓 Jupyter Notebook (Python analysis & charts) 
 
 ---
 
 ## Tech Stack
-- **Python**: Pandas, Matplotlib, Seaborn  
-- **Power BI**: Dashboards & KPI tracking  
+- **Python**: Pandas, Matplotlib, Seaborn 
 - **PowerPoint**: Executive storytelling  
 
 ---
